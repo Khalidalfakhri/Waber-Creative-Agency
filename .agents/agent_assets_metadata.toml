@@ -1,0 +1,74 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "EfuOJi_QrGNYnvlh4_2oJ"
+uri = "file://artifacts/loop-agency/public/hero-bg.png"
+type = "image"
+title = "hero dark ink swirls"
+
+[[generated]]
+id = "KCxvljki7N_FE3BAtgnQ1"
+uri = "file://artifacts/loop-agency/public/services-production.png"
+type = "image"
+title = "Professional camera lens macro"
+
+[[generated]]
+id = "ID3ckuOaTjFQByRDlZU80"
+uri = "file://artifacts/loop-agency/public/approach-bg.png"
+type = "image"
+title = "dark geometric architecture"
+
+[[generated]]
+id = "5Fq0ZZzn_BekL9zM_mCtO"
+uri = "file://artifacts/loop-agency/public/work-brand.png"
+type = "image"
+title = "Luxury brand stationery"
+
+[[generated]]
+id = "8V4V-9F-I8-x3KXviiQJS"
+uri = "file://artifacts/loop-agency/public/work-digital.png"
+type = "image"
+title = "Dark mode UI mockup"
+
+[[generated]]
+id = "MiLH2Fgc4RI5WlrIlpoKr"
+uri = "file://artifacts/loop-agency/public/work-campaign.png"
+type = "image"
+title = "High fashion editorial"
+
+[[generated]]
+id = "yR-_NIdJo7PeWmfckkSSd"
+uri = "file://artifacts/loop-agency/public/production.png"
+type = "image"
+title = "Professional cinema camera"
+
+[[generated]]
+id = "Nw-SQeDY8qK6N4pNQF3mY"
+uri = "file://artifacts/loop-agency/public/work-4.png"
+type = "image"
+title = "luxury interior photography"
+
+[[generated]]
+id = "B2AbvUGtd_1Ujx7FH7PjE"
+uri = "file://artifacts/loop-agency/public/hero-riyadh.png"
+type = "image"
+title = "Riyadh skyline dusk"
+
+[[generated]]
+id = "Pov_1HoJoJpLiSXt1ILlK"
+uri = "file://artifacts/loop-agency/public/about-diriyah.png"
+type = "image"
+title = "Diriyah historic architecture"
+
+[[generated]]
+id = "sxYaZYxVLBGiDpnZ6czkI"
+uri = "file://artifacts/loop-agency/public/desert-dunes.png"
+type = "image"
+title = "Saudi desert dunes"
+
+[[generated]]
+id = "p2_Tp3uBkirdSzTBukMVR"
+uri = "file://artifacts/loop-agency/public/work-event.png"
+type = "image"
+title = "Corporate event stage"
